@@ -1,0 +1,16 @@
+.inline-form {
+    display: inline-block;
+}
+
+body {
+    background-color: #e8e8e8;
+}
+
+.ml10 {
+    margin-left: 10px;
+}
+
+.card .card-content {
+    padding: 24px 24px 1px 24px;
+    border-radius: 0 0 2px 2px;
+}

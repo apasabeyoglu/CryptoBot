@@ -1,0 +1,28 @@
+.amcharts-chart-div a { display:none !important; }
+
+#btnLogout {
+    padding-left: 15px;
+    display: block;
+    color: rgba(0, 0, 0, 0.87);
+    font-weight: 400 !important;
+}
+
+#tableExchangeAccounts { display: none; }
+
+#divNoExchangeAccounts { display: none; }
+
+#divBalances { display: none; }
+
+#divNoActiveExchangeAccounts { display: none; }
+
+.tr-total {
+    border-top: 2px solid black;
+}
+
+#divExchangeAccounts { display: none; }
+
+#divNoChartData { display: none; }
+
+#tableOrders { display: none; }
+
+#divNoOrders { display: none; }
